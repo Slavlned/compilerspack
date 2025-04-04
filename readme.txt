@@ -1,0 +1,1 @@
+Перед установкой компиляторов, установите choco, запустив clickme_choco_installer.bat

@@ -1,0 +1,1 @@
+python ./watt/installer.py
