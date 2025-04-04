@@ -1,1 +1,1 @@
-choco install dart-sdk
+choco install dart-sdk -y

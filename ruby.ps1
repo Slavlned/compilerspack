@@ -1,1 +1,1 @@
-choco install ruby
+choco install ruby -y

@@ -1,1 +1,1 @@
-choco install rust
+choco install rust -y

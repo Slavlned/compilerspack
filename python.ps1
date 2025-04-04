@@ -1,1 +1,1 @@
-choco install python
+choco install python -y

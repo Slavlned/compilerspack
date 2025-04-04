@@ -1,1 +1,1 @@
-choco install lua
+choco install lua -y

@@ -1,1 +1,1 @@
-choco install julia
+choco install julia -y

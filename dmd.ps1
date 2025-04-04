@@ -1,1 +1,1 @@
-choco install dmd
+choco install dmd -y

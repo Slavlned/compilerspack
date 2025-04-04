@@ -1,1 +1,1 @@
-choco install kotlinc
+choco install kotlinc -y

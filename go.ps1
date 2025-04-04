@@ -1,1 +1,1 @@
-choco install go
+choco install go -y

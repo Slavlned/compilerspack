@@ -1,1 +1,1 @@
-choco install openjdk
+choco install openjdk -y

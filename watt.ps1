@@ -1,1 +1,1 @@
-python ./watt/installer.py
+python ./watt/installer.py -y

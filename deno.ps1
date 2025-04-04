@@ -1,1 +1,1 @@
-choco install deno
+choco install deno -y

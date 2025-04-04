@@ -1,1 +1,1 @@
-choco install nim
+choco install nim -y

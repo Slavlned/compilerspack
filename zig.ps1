@@ -1,1 +1,1 @@
-choco install zig
+choco install zig -y

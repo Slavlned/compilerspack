@@ -1,1 +1,1 @@
-choco install gleam
+choco install gleam -y

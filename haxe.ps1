@@ -1,1 +1,1 @@
-choco install haxe
+choco install haxe -y

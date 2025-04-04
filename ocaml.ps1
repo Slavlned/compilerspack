@@ -1,1 +1,1 @@
-choco install ocaml
+choco install ocaml -y

@@ -1,1 +1,1 @@
-choco install dotnet
+choco install dotnet -y
